@@ -1,8 +1,7 @@
 {
   "name": "@healthscreening/object-to-wrapper",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Function to convert values into strings.",
-  "type": "module",
   "main": "objectToWrapper.js",
   "types": "objectToWrapper.d.ts",
   "scripts": {
